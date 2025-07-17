@@ -39,7 +39,7 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>Chandmari Road,Tarapur Silchat</p>
+		 <p>Chandmari Road,Tarapur Silchar</p>
 		</div>
 		
 		<div>
